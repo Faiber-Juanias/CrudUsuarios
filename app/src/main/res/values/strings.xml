@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CrudUsuarios</string>
+
+    <!--Activity LoginUsuarios-->
+    <string name="view_titulo_login">LOGIN</string>
+    <string name="camp_usu_login">Usuario</string>
+    <string name="camp_pass_login">Contraseña</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_registrar_usu">Registrese!!</string>
+
+    <!--Activity RegistraUsuarios-->
+    <string name="view_titulo_registra">REGISTRA USUARIO</string>
+    <string name="view_correo">Correo:</string>
+    <string name="view_nombre">Nombre:</string>
+    <string name="view_apellido">Apellido:</string>
+    <string name="view_rol">Rol:</string>
+    <string name="view_usuario">Usuario:</string>
+    <string name="view_pass">Contraseña:</string>
+    <string name="view_con_pass">Valida Contra:</string>
+    <!--<string name="camp_correo"></string>
+    <string name="camp_nombre"></string>
+    <string name="camp_apellido"></string>
+    <string name="camp_usuario"></string>
+    <string name="camp_pass"></string>
+    <string name="camp_con_pass"></string>-->
+    <string name="btn_registra_usu">Guardar</string>
+
+    <!--Activity ListaUsuarios-->
+    <string name="view_titulo_lista">LISTA DE USUARIOS</string>
+    <string name="view_busca_rol">Buscar por Rol:</string>
+    <!--<string name="view_total_usu">Usuarios Totales:</string>-->
+    <string name="camp_busca_usu">Nombre / Apellido / Correo</string>
+    <string name="btn_busca_usu">Buscar</string>
+    <string name="btn_agrega_usu">Agregar Usuario +</string>
+
+    <!--Activity EditaUsuarios-->
+    <string name="view_titulo_edita">EDITA USUARIO</string>
+    <string name="view_correo_edita">Correo:</string>
+    <string name="view_nombre_edita">Nombre:</string>
+    <string name="view_apellido_edita">Apellido:</string>
+    <string name="view_rol_edita">Rol:</string>
+    <string name="view_usuario_edita">Usuario:</string>
+    <string name="view_pass_edita">Contraseña:</string>
+    <string name="view_con_pass_edita">Valida Contra:</string>
+    <string name="mensaje_edita">Si no desea actualizar la contraseña, deje en blanco los siguientes campos.</string>
+    <!--<string name="camp_correo_edita"></string>
+    <string name="camp_nombre_edita"></string>
+    <string name="camp_apellido_edita"></string>
+    <string name="camp_usuario_edita"></string>
+    <string name="camp_pass_edita"></string>
+    <string name="camp_con_pass_edita"></string>-->
+    <string name="btn_elimina_usu">Eliminar</string>
+    <string name="btn_actualiza_usu">Actualizar</string>
+</resources>
+
